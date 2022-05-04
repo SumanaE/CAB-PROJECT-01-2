@@ -28,7 +28,6 @@ The goal of our model is to give our users a simple and easy way to view the imp
     - Remove a vehicle from the fleet
     - Replace a vehicle from the fleet
 
-- Stage I: ~Janurary 31
 - Stage IIa: February 6
 - Stage IIb: February 16
 - Stage III: March 9
@@ -40,8 +39,9 @@ The goal of our model is to give our users a simple and easy way to view the imp
 
 ## Updates
  -- --
- - 
- - 
+ - **Stage I: ~Janurary 31**
+ - February 1-5: Created a rough draft about the project specifications
+ - Februrary 14: Used instructor feedback to edit the project proposal
  - 
  - April 23: Got the user inteface up and running, in it's most basic form
  - April 25: Experimented with the interface and query interaction to get our first query working
