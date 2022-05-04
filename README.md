@@ -28,6 +28,16 @@ The goal of our model is to give our users a simple and easy way to view the imp
     - Remove a vehicle from the fleet
     - Replace a vehicle from the fleet
 
+Stage I: ~Janurary 31
+Stage IIa: February 6
+Stage IIb: February 16
+Stage III: March 9
+Mid-Semester Report: March 10
+Stage IV: March 27
+Stage Va: April 6
+Stage Vb: April 25
+Stage VI: May 1
+
 ## Updates
  -- --
  - 
@@ -36,6 +46,6 @@ The goal of our model is to give our users a simple and easy way to view the imp
  - April 23: Got the user inteface up and running, in it's most basic form
  - April 25: Experimented with the interface and query interaction to get our first query working
  - April 26: Added the rest of the queries to the interface
- - April 30:
+ - April 30: Made visual modifications to the HTML and CSS
  - May 3: Added the feature allowing the user to compare the costs of two different vehicles
 
