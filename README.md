@@ -42,7 +42,7 @@ The goal of our model is to give our users a simple and easy way to view the imp
 - **April 6: Stage Va due**
 - April 23: Got the user inteface up and running, in it's most basic form
 - April 25: Experimented with the interface and query interaction to get our first query working
-- **April 25: Stage Vb due** </br>
+- **April 25: Stage Vb due** <br />
 - April 26: Added the rest of the queries to the interface
 - April 30: Made visual modifications to the HTML and CSS
 - **May 1: Stage VI due**
