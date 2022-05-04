@@ -28,15 +28,15 @@ The goal of our model is to give our users a simple and easy way to view the imp
     - Remove a vehicle from the fleet
     - Replace a vehicle from the fleet
 
-Stage I: ~Janurary 31
-Stage IIa: February 6
-Stage IIb: February 16
-Stage III: March 9
-Mid-Semester Report: March 10
-Stage IV: March 27
-Stage Va: April 6
-Stage Vb: April 25
-Stage VI: May 1
+- Stage I: ~Janurary 31
+- Stage IIa: February 6
+- Stage IIb: February 16
+- Stage III: March 9
+- Mid-Semester Report: March 10
+- Stage IV: March 27
+- Stage Va: April 6
+- Stage Vb: April 25
+- Stage VI: May 1
 
 ## Updates
  -- --
