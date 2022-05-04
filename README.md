@@ -31,20 +31,27 @@ The goal of our model is to give our users a simple and easy way to view the imp
 ## Updates
 -- --
 - **~Janurary 31: Stage I due**
+
 - February 1-5: Created a rough draft about the project specifications
 - **February 6: Stage IIa due**
+
 - Februrary 14: Used instructor feedback to edit the project proposal
 - **February 16: Stage IIb due**
+
 - February 23: Started developing the ER Diagram needed to begin conceptualizing the database
 - **March 9: Stage III due**
+
 - **March 10: Mid-Semester Report due**
 - **March 27: Stage IV due**
 - **April 6: Stage Va due**
+
 - April 23: Got the user inteface up and running, in it's most basic form
 - April 25: Experimented with the interface and query interaction to get our first query working
 - **April 25: Stage Vb due**
+
 - April 26: Added the rest of the queries to the interface
 - April 30: Made visual modifications to the HTML and CSS
 - **May 1: Stage VI due**
+
 - May 3: Added the feature allowing the user to compare the costs of two different vehicles
 
