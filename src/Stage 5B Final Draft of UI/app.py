@@ -1,22 +1,6 @@
 #! /usr/bin/python3
 
 """
-This is an example Flask | Python | Psycopg2 | PostgreSQL
-application that connects to the 7dbs database from Chapter 2 of
-_Seven Databases in Seven Weeks Second Edition_
-by Luc Perkins with Eric Redmond and Jim R. Wilson.
-The CSC 315 Virtual Machine is assumed.
-
-John DeGood
-degoodj@tcnj.edu
-The College of New Jersey
-Spring 2020
-
-----
-
-One-Time Installation
-
-You must perform this one-time installation in the CSC 315 VM:
 
 # install python pip and psycopg2 packages
 sudo pacman -Syu
@@ -37,18 +21,7 @@ flask run
 
 ----
 
-References
 
-Flask documentation:  
-https://flask.palletsprojects.com/  
-
-Psycopg documentation:
-https://www.psycopg.org/
-
-This example code is derived from:
-https://www.postgresqltutorial.com/postgresql-python/
-https://scoutapm.com/blog/python-flask-tutorial-getting-started-with-flask
-https://www.geeksforgeeks.org/python-using-for-loop-in-flask/
 """
 
 import psycopg2
