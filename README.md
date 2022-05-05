@@ -69,8 +69,8 @@ The goal of our model is to give our users a simple and easy way to view the imp
 - Nothing yet
 - 
 ## How to Install and Use
--clone the repository
--you must first perform this one time installation
+- clone the repository
+- you must first perform this one time installation
 ```
 # install python pip and psycopg2 packages
 sudo pacman -Syu
