@@ -40,32 +40,30 @@ The goal of our model is to give our users a simple and easy way to view the imp
     - **February 16: Stage IIb due**
 - February 23: Started developing the ER Diagram needed to begin conceptualizing the database
 - February 26-27: Used the knowledge presented in class to start fixing the original ER
-- March 3: With help from the teacher, we updated our ER Diagram and schema
+- March 3: With help from Dr. DeGood, we updated our ER Diagram and schema
 - March 6: Talked with our group and started developing the Mid-Semester Project Presentation and the **planned** User Inteface model/diagram
 - March 8: Created the Mid-Semester Project Report and started filling it out
 - March 9: Finished and submitted Stage III and the Mid-Semester Project Report and Presentation
     - **March 9: Stage III due**
     - **March 10: Mid-Semester Project Report and Presentation due**
-- s
+- March 12: Used presentation feedback and edited our User Interface model
+- March 14: Attempted to start normalizing our ER Diagram to BC-NF, this endeavor would take a long time
+- March 17: Started defining the different views (virtual tables) required
+- March 20: Finished the different views and started to develop a set of queries that could fulfill our transaction requirements 
+- March 25: With much assistance from Dr. DeGood, the ER Diagram was normalized to BC-NF and the set of queries was finished
     - **March 27: Stage IV due**
-- s
+- March 29-April 5: Started/continued writing and executing SQL commands to create tables and insert data
     - **April 6: Stage Va due**
-- April 23: Got the user inteface up and running, in it's most basic form
-- April 25: Experimented with the interface and query interaction to get our first query working
+- April 10-13: Implemented a simple User Interface in it's most basic form, with text boxes
+- April 19: Experimented with the interface and query interaction to get our first query working
+- April 25: Finished adding the rest of the queries to the interface
     - **April 25: Stage Vb due**
-- April 26: Added the rest of the queries to the interface
-- April 30: Made visual modifications to the HTML and CSS
+- April 28: Added drop downs to replace the text boxes to ensure valid inputs, even if the inputs returned null
+- April 30: Made visual modifications to the HTML and CSS of the interface
     - **May 1: Stage VI due (CSC315)**
 - May 3: Added the feature allowing the user to compare the costs of two different vehicles
 - May 4: Started to wrap up changes and finished the Final Project Report and Presentation
-    - **May 5: Stage VI due (CSC315/ACC311)**
+    - **May 5: Stage VI-Final Project Presentation due (CSC315/ACC311)**
     - **May 6: Stage VII-Final Project Report due**
     - **May 6: Stage VIII due**
-- 
-- 
-- 
-- 
-- 
-- 
-- s
-- 
+- Nothing yet
