@@ -6,6 +6,7 @@ The goal of our model is to give our users a simple and easy way to view the imp
 - Our Team
 - Features
 - Updates
+- Installation and Usage
 
 ## Our Team
 -- --
