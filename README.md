@@ -9,6 +9,7 @@ The objective of our model is to build a user-friendly interface that gives the 
 - Features
 - Updates
 - Installation and Usage
+- Technology and Concepts
 
 ## Our Team
 -- --
@@ -70,8 +71,8 @@ The objective of our model is to build a user-friendly interface that gives the 
     - **May 6: Stage VIII due**
 
 ## How to Install and Use
-- clone the repository
-- you must first perform this one time installation
+- Clone the repository or download the project files in "doc" folder
+- Must perform the one time installation in Virtual Machine
 ```
 # install python pip and psycopg2 packages
 sudo pacman -Syu
