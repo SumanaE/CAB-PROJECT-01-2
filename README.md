@@ -67,3 +67,22 @@ The goal of our model is to give our users a simple and easy way to view the imp
     - **May 6: Stage VII-Final Project Report due**
     - **May 6: Stage VIII due**
 - Nothing yet
+- 
+## How to Install and Use
+-clone the repository
+-you must first perform this one time installation
+```
+# install python pip and psycopg2 packages
+sudo pacman -Syu
+sudo pacman -S python-pip python-psycopg2
+
+# install flask
+pip install flask
+```
+To run the Flask application, simply execute:
+
+```
+export FLASK_APP=app.py
+flask run
+# then browse to http://127.0.0.1:5000/
+```
