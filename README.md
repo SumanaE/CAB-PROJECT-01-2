@@ -1,5 +1,7 @@
-# TCNJ Vehicle Fleet 
-The goal of our model is to give our users a simple and easy way to view the impact of TCNJ's vehicle fleet on the environment. It will also provide administrators with a straightforward way to view the impact of each individual change on the fleet itself.
+## TCNJ Fleet Vehicle Management
+
+## Objective of the Project
+The objective of our model is to build a user-friendly interface that gives the user control to execute commands that bring up a vehicle of his own wishes that would then provide the user with information regarding the vehicle's cost and emission data. This model would allow administrators to have complete control of the different vehicles and could compare on the database. For example, the user could request to compare the cost and emission data of one of TCNJ’s Ford F450’s with a Ram 1500, easily comparing the annual emissions and the effects on the environment. The database will be able to store thousands of vehicle information, allowing the user to find the most optimal group of vehicles to make up the fleet vehicle management at TCNJ. 
 
 ## Table of Contents
 ** **
@@ -22,13 +24,12 @@ The goal of our model is to give our users a simple and easy way to view the imp
 
 ## Features
 -- --
-- View statistics regarding percentage of electric cars and emmissions
-- Compare different vehicles to view the better option
-- Admin privileges
-    - Add a new vehicle to the fleet
-    - Remove a vehicle from the fleet
-    - Replace a vehicle from the fleet
-
+- User-Interface can retrieve information such as car emissions, emission types, vehicle classifications, and general information about the cars
+- Compare different vehicles to find which is the most environmentally friendly
+- User-Interface contains dropdown menu to assist the users in quickly gaining access to the data
+- Displays annual emissions and emission type for each car
+- Retrieves maintenance, repairs, tires, and insurance cost for all vehicles
+ 
 ## Updates
 -- --
 - January 31: Project topic selection
@@ -67,8 +68,7 @@ The goal of our model is to give our users a simple and easy way to view the imp
     - **May 5: Stage VI-Final Project Presentation due (CSC315/ACC311)**
     - **May 6: Stage VII-Final Project Report due**
     - **May 6: Stage VIII due**
-- Nothing yet
-- 
+
 ## How to Install and Use
 - clone the repository
 - you must first perform this one time installation
@@ -91,3 +91,10 @@ flask run
 - Now you are ready to use the application. 
 - Use the dropdown menus to select different parameters for the queries.
 - Results will be displayed in a seperate table
+
+## Technologies and Concepts
+** **
+- Tables and queries were used to store and fetch the data
+- An open-source relational database known as PostgreSQL is used
+- As for the implementation of the web-based interface, Python programming language is used to integrate all the SQL queries into User-Interface
+- HTML code is used to structure the web page's content and structure
