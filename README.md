@@ -86,3 +86,7 @@ export FLASK_APP=app.py
 flask run
 # then browse to http://127.0.0.1:5000/
 ```
+
+- Now you are ready to use the application. 
+- Use the dropdown menus to select different parameters for the queries.
+- Results will be displayed in a seperate table
