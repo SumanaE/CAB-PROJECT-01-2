@@ -71,7 +71,7 @@ The objective of our model is to build a user-friendly interface that gives the 
     - **May 6: Stage VIII due**
 
 ## How to Install and Use
-- Clone the repository or download the project files in "doc" folder
+- Clone the repository or download the project file (Final Draft of UI) in "src" folder
 - Must perform the one time installation in Virtual Machine
 ```
 # install python pip and psycopg2 packages
