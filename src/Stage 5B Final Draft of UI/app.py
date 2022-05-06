@@ -66,6 +66,7 @@ app = Flask(__name__)
 # serve form web page
 @app.route("/")
 def form():
+    # gets attributes from tables
     platenumber = connect("SELECT DISTINCT V.license_plate_number FROM Vehicle V ORDER BY V.license_plate_number asc")
     makes = connect("SELECT DISTINCT M.make FROM Model M ORDER BY M.make asc")
     models = connect("SELECT DISTINCT M.model FROM Model M ORDER BY M.model asc")
